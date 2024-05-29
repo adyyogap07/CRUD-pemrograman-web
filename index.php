@@ -9,7 +9,7 @@
 <body>
     
     <nav class="navbar navbar-dark bg-dark">
-        <span class="navbar-brand mb-0 h1">ADY YOGA PRATAMA</span>
+        <span class="navbar-brand mb-0 h1">ADY YOGA /span>
     </nav>
     <div class="container">
         <br>
